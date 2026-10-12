@@ -1,0 +1,12 @@
+DOMEXUSERS (NTFS)
+
+This is a disk image of a Windows XP SP3 system that has two users,
+domexuser1 and domexuser2, who communicate with a third user
+(domexuser3) via IM and email. 
+
+Two versions of this disk image will be provided:
+
+nps-2009-realistic - The full system
+nps-2009-realistic-redacted - The full system with the Microsoft Windows executables redacted.
+
+
